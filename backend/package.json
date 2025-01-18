@@ -1,0 +1,18 @@
+{
+  "name": "week2getrestapi",
+  "version": "1.0.0",
+  "description": "week 2 team assignment to learn get requests, api and database connections to the backend of a website using a server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Jalielle Curtis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
